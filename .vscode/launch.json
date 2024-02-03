@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "e:/problem_solving_with_C/01-Intro",
-      "program": "e:/problem_solving_with_C/01-Intro/build/Debug/outDebug",
+      "cwd": "e:/problem_solving_with_C/02-Operators",
+      "program": "e:/problem_solving_with_C/02-Operators/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
